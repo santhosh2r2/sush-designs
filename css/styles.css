@@ -1,0 +1,24 @@
+html,
+body {
+  background-color: lightgray;
+}
+
+.carousel-div {
+  width: 400px;
+  height: 400px;
+}
+
+footer {
+  bottom: 0;
+  font-size: 1rem;
+  padding: 0.75rem 0;
+  position: fixed;
+  width: 100%;
+  background-color: grey;
+  color: white;
+}
+
+#header,
+#content {
+  padding-left: 0.5rem;
+}
